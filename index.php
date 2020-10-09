@@ -46,7 +46,7 @@
               <img src="img/man.png" class="img-responsive">
             </div>
             <div class="banner-text text-center">
-              <h1 class="white">Student Proposal System</h1>
+              <h1 class="white">Student </h1>
               <p>A management system for student proposal in UITM Jasin <br>Student proposal that include all university kokurikulum activities. </p>
               <a href="choose.php" class="btn btn-appoint">Choose User</a>
             </div>
